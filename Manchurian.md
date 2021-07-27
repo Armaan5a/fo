@@ -1,13 +1,13 @@
-for manchurian balls:
+# for manchurian balls:
 2 carrot (chopped),1/4cabbage (shredded),4 spring onion (chopped),1 onion (finely chopped),1 tsp ginger garlic paste,2 tsp chilli sauce,1 tsp salt,4 tbsp maida,4 tbsp cornflouroil
 
-for gravy:
+# for gravy:
 4 tbsp oil,ginger,garlic,chilli,onion(chopped),capsicum (sliced),4 tbsp vinegar,4 tbsp soy sauce,2 tsp chilli sauce,4 tbsp tomato sauce,1 tsp pepper powder,0.5 tsp salt,2.5 cup water
 
-for slurry:
+ # for slurry:
 4 tsp cornflour,0.5 cup water
 
-procedure:
+# procedure:
 1)firstly, in a large bowl take 1 carrot, 5 tbsp cabbage, 2 tbsp spring onion, ½ onion and ½ tsp ginger garlic paste.
 2)also add 1 tsp chilli sauce, ½ tsp salt.
 3)mix well making sure everything is combined well,
